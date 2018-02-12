@@ -1,0 +1,7 @@
+C:\Users\Vlad\Documents\Visual Studio 2017\Projects\SendMail\SendMail\bin\Debug\SendMail.exe.config
+C:\Users\Vlad\Documents\Visual Studio 2017\Projects\SendMail\SendMail\bin\Debug\SendMail.exe
+C:\Users\Vlad\Documents\Visual Studio 2017\Projects\SendMail\SendMail\bin\Debug\SendMail.pdb
+C:\Users\Vlad\Documents\Visual Studio 2017\Projects\SendMail\SendMail\obj\Debug\SendMail.csprojResolveAssemblyReference.cache
+C:\Users\Vlad\Documents\Visual Studio 2017\Projects\SendMail\SendMail\obj\Debug\SendMail.csproj.CoreCompileInputs.cache
+C:\Users\Vlad\Documents\Visual Studio 2017\Projects\SendMail\SendMail\obj\Debug\SendMail.exe
+C:\Users\Vlad\Documents\Visual Studio 2017\Projects\SendMail\SendMail\obj\Debug\SendMail.pdb
