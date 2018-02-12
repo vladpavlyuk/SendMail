@@ -22,10 +22,9 @@ namespace SendMail
 
         static void Main(string[] args)
         {
-           
-
             while(true)
             {
+                Console.WriteLine("Send Email using SMTP");
                 Console.Write("Enter a login: ");
                 login = Console.ReadLine();
                 Console.Write("Enter a password: ");
@@ -50,6 +49,7 @@ namespace SendMail
                     Subject = subject,
                     Body = body
                 };
+
                 mail.To.Add(toUser);
                 clientSmtp.Send(mail);
                 Console.WriteLine("Email has been sent!");
