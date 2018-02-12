@@ -24,7 +24,7 @@ namespace SendMail
         {
             while(true)
             {
-                Console.WriteLine("Send Email using SMTP");
+                Console.WriteLine("Send Email using SMTP!");
                 Console.Write("Enter a login: ");
                 login = Console.ReadLine();
                 Console.Write("Enter a password: ");
