@@ -52,7 +52,7 @@ namespace SendMail
                 mail.To.Add(toUser);
                 clientSmtp.Send(mail);
                 Console.WriteLine("Email has been sent!");
-                Console.WriteLine("Do you want continue? [1] Yes   [2] No");
+                Console.WriteLine("Do you want continue? Please select [1] Yes or  [2] No");
                 trigger = Convert.ToInt32(Console.ReadLine());
 
                 if (trigger == 2 || trigger == 0)
